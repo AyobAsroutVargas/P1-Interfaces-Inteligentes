@@ -30,5 +30,5 @@ En este caso se ha creado un GameObject vacio con un script que en Start busca l
 
 # Gif animado de la ejecución
   
-  ![](P1 - SampleScene.gif)
+  ![](https://github.com/alu0101350158/P1-Interfaces-Inteligentes/blob/main/P1%20-%20SampleScene.gif)
   
